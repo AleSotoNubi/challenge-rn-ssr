@@ -14,7 +14,7 @@ Buscamos Devs con ganas de sumarse a los desafios que hoy tenemos en **Nubi**.
 &nbsp;
 ## Requerimientos
 
-utilizar la informacion disponibilizada en la api mas abajo descripta
+Utilizar la informacion disponibilizada en la api mas abajo descripta
 - Login (no es necesario validar datos, la api siempre te devolvera un jwt)
 - dashboard
 - servicios habilitados (dinamico segun "services" en el json)
@@ -25,7 +25,7 @@ utilizar la informacion disponibilizada en la api mas abajo descripta
 &nbsp;
 ## Que esperamos una vez terminado el challenge 🏁
 - un repositorio con codigo del challenge (publico)
-- un .apk o .api (el que prefieras)
+- un .apk o .ipa (el que prefieras)
 
 &nbsp;
 ## Que vamos a evaluar 💡
