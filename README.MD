@@ -84,5 +84,4 @@ Ejemplo:
   ]
 }`
 
-## Las imagenes son ilustrativas, no le vamos a dar tanta importancia al diseño, si a la funcionalidad :)
 ![screenshot](https://i.ibb.co/34vxf5L/screen-0.png)![screenshot](https://i.ibb.co/WWkmCWs/screen-1.png)![screenshot](https://i.ibb.co/JCRV5BL/screen-2.png)
