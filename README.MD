@@ -40,12 +40,8 @@ Utilizar la informacion disponibilizada en la api mas abajo descripta
 &nbsp;
 ## Recursos 🌄
 &nbsp;
-API: https://nubitestapi.free.beeceptor.com/login
-Esta api te devuelve un JWT que debes decodificar, contiene informacion del usuario, nombre, email, servicios activos, movimientos de dinero
-
-JWT Keys: nubikey
-
-encoder/decoder https://10015.io/tools/jwt-encoder-decoder
+API: https://nubi-challenge.wiremockapi.cloud/login
+Esta api te devuelve un JSON, contiene informacion del usuario, nombre, email, servicios activos, movimientos de dinero
 
 Ejemplo:
 `{
